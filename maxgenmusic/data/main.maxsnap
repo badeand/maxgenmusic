@@ -10,17 +10,21 @@
 	"snapshot" : 	{
 		"valuedictionary" : 		{
 			"parameter_values" : 			{
-				"live.button" : 1.0,
-				"live.button[1]" : 1.0,
+				"live.button" : 0.0,
 				"live.button[2]" : 0.0,
 				"live.button[3]" : 0.0,
+				"live.button[4]" : 0.0,
+				"live.button[5]" : 0.0,
+				"live.button[6]" : 0.0,
 				"blob" : 				{
-					"kslider" : [ 72 ],
-					"kslider[1]" : [ 62 ],
-					"kslider[2]" : [ 60 ],
+					"kslider" : [ 60 ],
+					"kslider[2]" : [ 62 ],
+					"kslider[3]" : [ 36 ],
 					"textedit" : [ "8n" ],
-					"textedit[1]" : [ "8n" ],
-					"textedit[2]" : [ "8n" ],
+					"textedit[1]" : [ "4n" ],
+					"textedit[2]" : [ "4n" ],
+					"textedit[3]" : [ "8n" ],
+					"textedit[4]" : [ "4n" ],
 					"vst~[1]" : [ 						{
 							"filetype" : "C74Snapshot",
 							"version" : 2,

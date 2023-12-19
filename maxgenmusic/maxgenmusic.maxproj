@@ -2,7 +2,7 @@
 	"name" : "maxgenmusic",
 	"version" : 1,
 	"creationdate" : 3785768563,
-	"modificationdate" : 3785770901,
+	"modificationdate" : 3785856366,
 	"viewrect" : [ 25.0, 119.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -10,25 +10,25 @@
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
-			"notes.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1,
-				"toplevel" : 1
-			}
-,
 			"main.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"vsti.maxpat" : 			{
+			"mgm_delay.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
-
-		}
 ,
-		"data" : 		{
+			"mgm_notes.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"mgm_vsti.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
 
 		}
 
