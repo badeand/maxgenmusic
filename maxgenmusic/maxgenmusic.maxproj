@@ -2,7 +2,7 @@
 	"name" : "maxgenmusic",
 	"version" : 1,
 	"creationdate" : 3785768563,
-	"modificationdate" : 3785856366,
+	"modificationdate" : 3786726660,
 	"viewrect" : [ 25.0, 119.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -29,6 +29,15 @@
 				"kind" : "patcher",
 				"local" : 1
 			}
+,
+			"mgm_chord.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+
+		}
+,
+		"data" : 		{
 
 		}
 
