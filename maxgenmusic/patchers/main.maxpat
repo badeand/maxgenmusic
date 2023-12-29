@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 5,
-			"revision" : 6,
+			"revision" : 7,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 100.0, 1368.0, 932.0 ],
+		"rect" : [ 34.0, 100.0, 796.0, 932.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -117,7 +117,7 @@
 					"numoutlets" : 2,
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "signal", "signal" ],
-					"patching_rect" : [ 433.0, 517.0, 68.0, 33.0 ],
+					"patching_rect" : [ 433.0, 517.0, 92.0, 34.0 ],
 					"viewvisibility" : 1
 				}
 
@@ -354,6 +354,13 @@
 		}
 ,
 		"dependency_cache" : [ 			{
+				"name" : "B-3 V2.maxsnap",
+				"bootpath" : "~/dev/maxgenmusic/maxgenmusic/data",
+				"patcherrelativepath" : "../data",
+				"type" : "mx@s",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "main.maxsnap",
 				"bootpath" : "~/dev/maxgenmusic/maxgenmusic/data",
 				"patcherrelativepath" : "../data",
